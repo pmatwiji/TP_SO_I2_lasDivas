@@ -1,0 +1,11 @@
+1) Lo actualizamos utilizando los siguientes comandos:
+	a)git remote add upstream "Dirección origen del repositorio"
+	b)git fetch upstream
+	c)git merge upstream/master
+
+2) Si, puede hacerlo.
+
+3) Si, puede hacerlo.
+
+4) Los datos no se pierden a no ser que al actualizar haya un archivo con 
+   igual nombre, se pisan los datos de este.
